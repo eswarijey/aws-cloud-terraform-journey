@@ -36,6 +36,9 @@ terraform plan
 terraform apply
 terraform destroy
 ```
+## Result
+
+![Budget created by Terraform](images/budget.png)
 
 ## What I learned
 
