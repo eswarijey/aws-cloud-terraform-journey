@@ -38,7 +38,7 @@ terraform destroy
 ```
 ## Result
 
-![Budget created by Terraform](images/budget.png)
+![Budget created by Terraform](images/Day01-MonthlyBudgets.png)
 
 ## What I learned
 
